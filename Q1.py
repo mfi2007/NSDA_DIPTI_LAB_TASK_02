@@ -1,5 +1,5 @@
 # Function to print personal information
-def personal_info():
+def fakrul():
     name = "Md. Fakrul Islam"
     address = "Eastern Housing, Pallabi, Mirpur, Dhaka"
     mobile_number = "01817526140"
@@ -11,7 +11,7 @@ def personal_info():
     print("Age:", age)
 
 # 1. Call the function to print personal info
-personal_info()
+fakrul()
 
 
 
